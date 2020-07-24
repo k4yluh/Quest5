@@ -1,0 +1,22 @@
+.navbar-custom {
+    background-color: transparent;
+}
+
+.navbar-text {
+    color: red;
+    font-family: 'Bebas Neue', 'Times Roman Numeral';
+    font-size: 20px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+#homep {
+    width: 1150px;
+    height: 650px;
+    position: relative;
+}
